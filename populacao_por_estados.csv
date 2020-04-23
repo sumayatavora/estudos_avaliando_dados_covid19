@@ -1,28 +1,28 @@
-id_estado;uf;Estado;qtd_pop
-0;RO;Rondônia;1777225
-1;AC;Acre;881935
-2;AM;Amazonas;4144597
-3;RR;Roraima;605761
-4;PA;Pará;8602865
-5;AP;Amapá;845731
-6;TO;Tocantins;1572866
-7;MA;Maranhão;7075181
-8;PI;Piauí;3273227
-9;CE;Ceará;9132078
-10;RN;Rio Grande do Norte;3506853
-11;PR;Paraíba;4018127
-12;PE;Pernambuco;9557071
-13;AL;Alagoas;3337357
-14;SE;Sergipe;2298696
-15;BA;Bahia;14873064
-16;MG;Minas Gerais;21168791
-17;ES;Espírito Santo;4018650
-18;RJ;Rio de Janeiro;17264943
-19;SP;São Paulo;45919049
-20;PR;Paraná;11433957
-21;SC;Santa Catarina;7164788
-22;RS;Rio Grande do Sul;11377239
-23;MS;Mato Grosso do Sul;2778986
-24;MT;Mato Grosso;3484466
-25;GO;Goiás;7018354
-26;DF;Distrito Federal;3015268
+id_estado,uf,Estado,qtd_pop
+0,RO,RondÃ´nia,1777225
+1,AC,Acre,881935
+2,AM,Amazonas,4144597
+3,RR,Roraima,605761
+4,PA,ParÃ¡,8602865
+5,AP,AmapÃ¡,845731
+6,TO,Tocantins,1572866
+7,MA,MaranhÃ£o,7075181
+8,PI,PiauÃ­,3273227
+9,CE,CearÃ¡,9132078
+10,RN,Rio Grande do Norte,3506853
+11,PR,ParaÃ­ba,4018127
+12,PE,Pernambuco,9557071
+13,AL,Alagoas,3337357
+14,SE,Sergipe,2298696
+15,BA,Bahia,14873064
+16,MG,Minas Gerais,21168791
+17,ES,EspÃ­rito Santo,4018650
+18,RJ,Rio de Janeiro,17264943
+19,SP,SÃ£o Paulo,45919049
+20,PR,ParanÃ¡,11433957
+21,SC,Santa Catarina,7164788
+22,RS,Rio Grande do Sul,11377239
+23,MS,Mato Grosso do Sul,2778986
+24,MT,Mato Grosso,3484466
+25,GO,GoiÃ¡s,7018354
+26,DF,Distrito Federal,3015268
